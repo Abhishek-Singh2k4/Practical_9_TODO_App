@@ -1,0 +1,40 @@
+
+body {
+  background: #e0f2fe;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 550px;
+  margin: 60px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px #aaa;
+}
+
+h1 {
+  text-align: center;
+  color: #1e3a8a;
+}
+
+input {
+  padding: 12px;
+  width: 65%;
+}
+
+button {
+  padding: 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+}
+
+li {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+}
